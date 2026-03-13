@@ -123,3 +123,20 @@ application-tracking-system
 ├── .env
 ├── README.md
 └── LICENSE
+
+---
+
+# Example Output
+JD Match: 72%
+
+Position Match: Yes
+
+Experience: 7 years
+
+Skills Missing:
+Kubernetes
+Docker
+AWS
+
+Overall Summary:
+Candidate demonstrates strong backend engineering experience and good alignment with the role. Adding cloud-native technologies and container orchestration experience would strengthen the profile.
